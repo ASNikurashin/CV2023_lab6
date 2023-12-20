@@ -47,7 +47,7 @@
 ```
 Реализация расчета метрики на python с использованием pytorch представлена в файле [utils.py](./utils.py) в функции _mean_epe_
 ## Baseline
-
+[ноутбук](https://colab.research.google.com/drive/1XuWypMIhoon14BT4QBPF0mt9epQALaeM?usp=sharing#scrollTo=i8-h86duownn)
 
 Результаты:
 |     EPE (train-val set)     |     EPE (test-set)     |     Time per image, sec    |
