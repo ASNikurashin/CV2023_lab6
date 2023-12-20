@@ -46,7 +46,7 @@
  EPE = ||V_{gt} - V_{calc}||_2 = \sqrt{(\Delta x_{gt} - \Delta x_{calc})^2 + (\Delta y_{gt} - \Delta y_{calc})^2}
 ```
 Реализация расчета метрики на python с использованием pytorch представлена в файле [utils.py](./utils.py) в функции _mean_epe_
-## Baseline
+## Решение
 [ноутбук](https://colab.research.google.com/drive/1XuWypMIhoon14BT4QBPF0mt9epQALaeM?usp=sharing#scrollTo=i8-h86duownn)
 
 Результаты:
