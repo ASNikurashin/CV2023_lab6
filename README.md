@@ -51,8 +51,8 @@
 Модель FlowNet S, оптимизатор Adam, loss - EPE (совпадает с метрикой), batch_size = 8, количество эпох 20.
 
 Результаты:
-|     EPE (train-val set)     |     EPE (test set)     |     Time per image, sec    |
+|     EPE (train-val set)     |     EPE (test-set)     |     Time per image, sec    |
 |-----------------------------|------------------------|----------------------------|
-|           8.04              |           7.0          |           0.0107           |
+|           7.8               |           6.5          |           0.0107           |
 
 
