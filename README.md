@@ -48,7 +48,6 @@
 Реализация расчета метрики на python с использованием pytorch представлена в файле [utils.py](./utils.py) в функции _mean_epe_
 ## Baseline
 
-Модель FlowNet S, оптимизатор Adam, loss - EPE (совпадает с метрикой), batch_size = 8, количество эпох 20.
 
 Результаты:
 |     EPE (train-val set)     |     EPE (test-set)     |     Time per image, sec    |
